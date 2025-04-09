@@ -7,24 +7,24 @@ This project presents a comprehensive Power BI dashboard for analyzing Blinkit's
 
 **Key Performance Indicators (KPIs)**
 
-The dashboard highlights the following primary KPIs:
+• The dashboard highlights the following primary KPIs:
 
-Total Sales: Overall revenue generated from all items sold ($1.20M)
+• Total Sales: Overall revenue generated from all items sold ($1.20M)
 
-Average Sales: Average revenue per sale ($141)
+• Average Sales: Average revenue per sale ($141)
 
-Number of Items Sold: Total count of different items sold (8,523)
+• Number of Items Sold: Total count of different items sold (8,523)
 
-Average Rating: Average customer rating for items sold (3.9 out of 5)
+• Average Rating: Average customer rating for items sold (3.9 out of 5)
 
 **Insights and Conclusions**
 
-Strong overall sales performance with over $1M in total sales.
+•• Strong overall sales performance with over $1M in total sales.
 
-Consumer preference for low-fat products indicates health-conscious trends.
+•• Consumer preference for low-fat products indicates health-conscious trends.
 
-Fruits, vegetables, and snack foods are the top-selling categories.
+•• Fruits, vegetables, and snack foods are the top-selling categories.
 
-Medium-sized outlets in Tier 3 locations demonstrate the highest profitability.
+•• Medium-sized outlets in Tier 3 locations demonstrate the highest profitability.
 
-Supermarkets generate higher sales volumes, while grocery stores show better item visibility.
+•• Supermarkets generate higher sales volumes, while grocery stores show better item visibility.
