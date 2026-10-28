@@ -96,9 +96,7 @@ Data Analyst | MIS Reporting | Power BI Developer
 📍 Bengaluru, India
 
 - 📧 Email: [aravindaat656@gmail.com](mailto:aravindaat656@gmail.com)
-- 💼 LinkedIn: Add your LinkedIn profile URL
-- 🐙 GitHub: Add your GitHub profile URL
-- 🌐 Portfolio: Add your portfolio website URL
+- 
 
 ---
 
